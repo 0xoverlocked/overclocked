@@ -1,6 +1,6 @@
 {
   "name": "Overclocked",
-  "description": "Overclocked is a collection of 3,000 animated CPUs pushed beyond their limits. Each chip is procedurally generated and fully animated.",
+  "description": "Overclocked is a collection of 3,000 animated CPUs pushed beyond their limits. Each chip is procedurally generated and fully animated.\n\n**Mining Rig** — install your CPUs in the Mining Rig and they mine **Cycles** every second. A Common mines 2,400 Cycles per day and rarity multiplies it:\n\n- Common · x1 · 2,400 Cycles/day\n- Uncommon · x2.2 · 5,280 Cycles/day\n- Rare · x3.6 · 8,640 Cycles/day\n- Epic · x4.8 · 11,520 Cycles/day\n- Legendary · x6 · 14,400 Cycles/day\n\nNo minimum time: unstake anytime and keep every Cycle already mined.\n\n**Airdrop** — 30% of the token supply will be airdropped to stakers based on their Cycles.",
   "image": "https://raw.githubusercontent.com/0xoverlocked/overclocked/main/images/52.gif",
   "seller_fee_basis_points": 500,
   "fee_recipient": "0x862ddc14E0Ba72dE6C0A84579DADf91fA46B094d"
